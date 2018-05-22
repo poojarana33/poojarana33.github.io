@@ -3,7 +3,14 @@ body{
 }
 
 
+
+
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Passion+One');
+
+
 h1 {
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Passion One', cursive;
 	font-size: xx-large;
 	color: black;
 	text-align: center;
@@ -19,13 +26,14 @@ h2{
 }
 
 p{
+	font-family: 'Passion One', cursive;
 	text-align: center;
 }
 
 img.center {
-  display: block;
+   display: block;
    margin-left: auto;
    margin-right: auto;
-   height: 250px;
-   width: 45%;
+   height: 350px;
+   width: 33%;
 }
