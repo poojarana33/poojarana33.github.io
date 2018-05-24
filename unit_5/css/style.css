@@ -1,5 +1,22 @@
 body{
-	background-color: #ffe6e6;
+	background-color: rgb(0, 9, 41);
+}
+
+header{
+	margin-bottom: 50px;
+}
+
+.logo{
+	text-align: left;
+	width:250px;
+	height: 120px;
+	vertical-align: middle;
+	margin-right: 120px;
+}
+
+.banner{
+	text-align: center;
+	vertical-align: middle;
 }
 
 
@@ -12,8 +29,7 @@ h1 {
 	font-family: 'Fjalla One', sans-serif;
     font-family: 'Passion One', cursive;
 	font-size: xx-large;
-	color: black;
-	text-align: center;
+	color: rgb(212, 212, 212);
 	
 	}
 
@@ -36,4 +52,35 @@ img.center {
    margin-right: auto;
    height: 350px;
    width: 33%;
+}
+
+p{
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Passion One', cursive;
+	color: rgb(212, 212, 212);
+    text-align: middle;
+    vertical-align: middle;
+
+}
+
+footer{
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Passion One', cursive;
+    color: rgb(212, 212, 212);
+    text-align: right;
+    vertical-align: middle
+}
+
+.fbk{
+	width: 30px;
+	text-align: right;
+}
+
+.in{
+	width: 30px;
+}
+
+.twit{
+	width:30px;
+
 }
