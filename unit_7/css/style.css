@@ -1,0 +1,121 @@
+body{
+	background-color: rgb(0, 9, 41);
+}
+
+header{
+	margin-bottom: 50px;
+}
+
+.logo{
+	text-align: left;
+	width:250px;
+	height: 120px;
+	vertical-align: middle;
+	margin-right: 120px;
+}
+
+.banner{
+	text-align: center;
+	vertical-align: middle;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Passion+One');
+
+
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Passion One', cursive;
+	font-size: xx-large;
+	color: rgb(212, 212, 212);
+	
+	}
+
+h2{
+	font-weight: bolder;
+	text-align: center;
+    text-decoration: underline;
+    text-decoration-style: solid 
+
+}
+
+p{
+	font-family: 'Passion One', cursive;
+	text-align: center;
+}
+
+img.center {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 350px;
+   width: 33%;
+}
+
+p{
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Passion One', cursive;
+	color: rgb(212, 212, 212);
+    text-align: middle;
+    vertical-align: middle;
+
+}
+
+#two_column{
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+
+#left{
+	padding: 20px;
+	float:left;
+	width: 25%;
+
+}
+
+#right{
+	background-color: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width:45%;
+
+
+}
+
+
+footer{
+	font-family: 'Fjalla One', sans-serif;
+    font-family: 'Passion One', cursive;
+    color: rgb(212, 212, 212);
+    text-align: right;
+    vertical-align: middle
+}
+
+.fbk{
+	width: 30px;
+	text-align: right;
+}
+
+.in{
+	width: 30px;
+}
+
+.twit{
+	width:30px;
+
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+
+}
